@@ -1,0 +1,7 @@
+{
+  "Name": "RandomWhisker",
+  "Description": "Random Whisker: spawn one random Whisker at the dock with a HUD button.",
+  "Version": "0.1.0",
+  "CreatedBy": "repte",
+  "EngineVersion": "5.8"
+}

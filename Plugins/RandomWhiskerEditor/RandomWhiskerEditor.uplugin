@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1",
+  "FriendlyName": "Random Whisker Authoring",
+  "Description": "Editor-only Blueprint authoring helper. Not required or included in the game package.",
+  "Category": "Modding",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    { "Name": "RandomWhiskerEditor", "Type": "Editor", "LoadingPhase": "PostEngineInit" }
+  ],
+  "Plugins": [
+    { "Name": "Suzie", "Enabled": true }
+  ]
+}

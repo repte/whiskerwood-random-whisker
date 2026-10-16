@@ -1,0 +1,1 @@
+v0.1.0: First release. One HUD button spawns one random Whisker at the dock through the game's own spawn action. Windows, Whiskerwood 0.7.209.0.
